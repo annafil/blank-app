@@ -1,19 +1,3 @@
-# 🎈 Blank app template
+# 🎈 Cortex Analyst on Snowflake Demo -- Community Cloud Deployment
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+Prototype to work out kinks of connecting to Snowflake's REST API from Community Cloud. 
